@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Miner Manager",
+  "description": "A modern, themeable web application for monitoring and configuring Bitcoin miners, featuring a graphical dashboard and smart summaries powered by Gemini API.",
+  "requestFramePermissions": []
+}
